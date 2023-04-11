@@ -1,0 +1,26 @@
+logs/
+dist/
+plugin/
+/zmp/node_modules/
+/zmp-host/node_modules/
+/zmp-remote/node_modules/
+/public/dll/
+
+# local env files
+.DS_Store
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
